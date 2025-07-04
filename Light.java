@@ -1,8 +1,9 @@
-class Camera {
+class Light {
     public static void main(String[] args) {
         System.out.println("Main Started");
-        Lens.capture();
+        Power.supply();
         System.out.println("Main Ended");
     }
 }
+
 

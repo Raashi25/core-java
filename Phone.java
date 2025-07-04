@@ -1,7 +1,7 @@
-class Camera {
+class Phone {
     public static void main(String[] args) {
         System.out.println("Main Started");
-        Lens.capture();
+        Charger.plugIn();
         System.out.println("Main Ended");
     }
 }

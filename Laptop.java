@@ -1,7 +1,7 @@
-class Camera {
+class Laptop {
     public static void main(String[] args) {
         System.out.println("Main Started");
-        Lens.capture();
+        Battery.charge();
         System.out.println("Main Ended");
     }
 }

@@ -1,8 +1,9 @@
-class Camera {
+class Watch {
     public static void main(String[] args) {
         System.out.println("Main Started");
-        Lens.capture();
+        Time.show();
         System.out.println("Main Ended");
     }
 }
+
 
