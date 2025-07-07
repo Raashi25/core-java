@@ -1,8 +1,0 @@
-class Camera {
-    public static void main(String[] args) {
-        System.out.println("Main Started");
-        Lens.capture();
-        System.out.println("Main Ended");
-    }
-}
-
